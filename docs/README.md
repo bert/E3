@@ -19,7 +19,7 @@ to dropping a crowbar across bus bars (heavy duty power supply lines).
 
 A typical crowbar circuit is as follows:
 
-[fig_1](crowbar.png)
+![fig_1](crowbar.png)
 
 This crowbar circuit has an 8V power supply, and triggers at around 10 V.
 To change the power supply rating, the zener diode, ZD1, needs to be
