@@ -1,4 +1,4 @@
 # E3
-Crowbar Power Supply Unit
+Crowbar Protection Circuit
 
-The original article can be found [here](docs/README.md)
+A copy of the original article can be found [here](docs/README.md)
