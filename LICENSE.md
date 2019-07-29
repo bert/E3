@@ -32,7 +32,7 @@ Source Code (source directory)
 
 **Source code, firmware, and software is released under the GPLv2+ License).**
 
-Copyright (c) 2017 Bert Timmerman <bert.timmerman@xs4all.nl>
+Copyright (c) 2019 Bert Timmerman <bert.timmerman@xs4all.nl>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by the
