@@ -1,0 +1,36 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+Q1 device=THYRISTOR
+J1 device=CONNECTOR
+J2 device=CONNECTOR
+C2 device=CAPACITOR
+F1 device=FUSE
+SD1 device=SCHOTTKY_DIODE
+ZD1 device=ZENER_DIODE
+C1 device=CAPACITOR
+R1 device=RESISTOR
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+unnamed_net5 : J1 1, F1 1 
+unnamed_net4 : J2 1, SD1 1 
+unnamed_net3 : Q1 2, ZD1 2, F1 2, SD1 2, C1 2 
+unnamed_net2 : Q1 1, J2 2, J1 2, C2 1, C1 1, R1 1 
+unnamed_net1 : Q1 3, C2 2, ZD1 1, R1 2 
+
+END nets
+
